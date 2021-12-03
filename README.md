@@ -3,7 +3,7 @@ Digital Signal Encode, Encrypt, Decode, Decrypt project for CSCI 2070
 
 <br/>
 This was a project for CSCI 2070 (Cryptography course) at Armstrong State University. <br/>
-The premise is that it allows someone to generate a binary string, encode it, encrypt it, transmit it, decode it, and decrypt it.  It is a java-based secure messaging system based off cryptography principles learned during the class.  
+The premise is that it allows someone to generate a binary string, encode it, encrypt it, transmit it, decode it, and decrypt it.  It is a java-based secure messaging system based off cryptography principles learned during the class.  It has the option to either do ECB (Electronic Code Book) or CBC (Cipher Block Chain) with TEA algorithm. 
 
 ![image](https://user-images.githubusercontent.com/24422068/144497258-f4db753c-cd64-46d5-b753-62522c531a89.png)
 ![image](https://user-images.githubusercontent.com/24422068/144497286-c89cbc60-e6c4-47b8-903d-1c4352c6fbe5.png)
